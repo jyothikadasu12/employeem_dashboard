@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+:root {
+  --color-brand-500: #6366f1;
+  --color-brand-600: #ad3232;
+  --color-brand-700: #4338ca;
+}

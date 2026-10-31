@@ -1,0 +1,44 @@
+.topbar {
+  height: 75px;
+  background: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 30px;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.navbar-search {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: #f8fafc;
+  padding: 12px 16px;
+  border-radius: 10px;
+  width: 320px;
+  color: #64748b;
+}
+
+.navbar-search input {
+  border: none;
+  outline: none;
+  background: transparent;
+  width: 100%;
+}
+
+.navbar-actions,
+.navbar-profile {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+
+.navbar-profile h4 {
+  font-size: 14px;
+  color: #1e293b;
+}
+
+.navbar-profile span {
+  font-size: 12px;
+  color: #64748b;
+}
