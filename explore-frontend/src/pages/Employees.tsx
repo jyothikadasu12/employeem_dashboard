@@ -92,7 +92,7 @@ function Employees() {
 
         <div className="employee-total">
           <strong>{filteredEmployees.length}</strong>
-          <span>Matching Members</span>
+          <span>Members</span>
         </div>
       </div>
 
